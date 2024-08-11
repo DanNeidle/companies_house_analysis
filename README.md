@@ -1,4 +1,4 @@
-Companies House analysis
+# Companies House analysis
 
 (c) Dan Neidle of Tax Policy Associates Ltd, 2024
 
